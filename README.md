@@ -1,6 +1,6 @@
 # Task-16-Map-Filter
 
-# Student Records Search Application
+# Student Records Search
 
 A simple web application built using **HTML, CSS, and JavaScript** that displays student records in card format. Users can search for students by name using the search button, and matching records are displayed dynamically.
 
